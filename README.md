@@ -12,7 +12,7 @@
 
 cloudreve二进制可执行文件在此镜像下编译生成，可能不适用于其他镜像
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fuaerlive/cloudreve-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/FuaerCN/cloudreve-heroku-1)
 
 ## 注意
 
