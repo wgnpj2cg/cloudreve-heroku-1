@@ -21,4 +21,4 @@ RUN chmod +x /root/cloudreve/cloudreve \
     && chmod +x /root/aria2/trackers-list-aria2.sh \
     && chmod +x /root/run.sh
 
-RUN CMD /root/run.sh
+CMD /root/run.sh
