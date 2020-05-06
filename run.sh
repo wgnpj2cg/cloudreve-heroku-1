@@ -31,5 +31,5 @@ Name = $DB_Name
 TablePrefix = V3
 EOF
 
-/etc/init.d/aria2 start
+/root/aria2/trackers-list-aria2.sh
 /root/cloudreve/cloudreve -c /root/cloudreve/mycloudreve.ini
