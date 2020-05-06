@@ -8,5 +8,5 @@ else
     sed -i "s@bt-tracker.*@bt-tracker=$list@g" /root/aria2/aria2.conf
     echo update......
 fi
-#rm -rf /root/Download/*
+rm -rf /root/Download/*
 /etc/init.d/aria2 start
