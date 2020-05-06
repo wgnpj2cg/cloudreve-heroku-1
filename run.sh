@@ -31,5 +31,5 @@ Name = $DB_Name
 TablePrefix = V3
 EOF
 
-nohup aria2c --conf-path=/root/.aria2/aria2.conf
+/etc/init.d/aria2 start
 /root/cloudreve/cloudreve -c /root/cloudreve/mycloudreve.ini
