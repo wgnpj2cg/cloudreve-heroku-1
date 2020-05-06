@@ -18,11 +18,11 @@
 		},
 		"DB_User": {
 			"description": "Database User",
-			"value": "root"
+			"value": "DB_User"
 		},
 		"DB_Password": {
 			"description": "Database Password",
-			"value": "root"
+			"value": "DB_Password"
 		},
 		"DB_Name": {
 			"description": "Database Name",
