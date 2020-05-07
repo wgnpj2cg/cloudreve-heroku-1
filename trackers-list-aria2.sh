@@ -8,4 +8,4 @@ else
     echo update......
 fi
 rm -rf /root/Download/*
-nohup aria2c --conf-path=/root/aria2/aria2.conf
+nohup aria2c --conf-path=/root/.aria2/aria2.conf &
